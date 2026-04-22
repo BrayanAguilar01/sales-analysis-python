@@ -8,27 +8,31 @@ Analyze sales data to identify trends, top-performing products, and business opp
 
 Synthetic dataset with sales transactions including:
 
-Date
+OrderDate  
 
-Product
+ProductName
 
 Category
 
-Revenue
-
 Quantity
+
+UnitPrice
+
+Discount
+
+Tax
+
+ShippingCost
+
+TotalAmount
 
 🔍 Analysis
 
-Monthly revenue trends
-
-Top products by revenue
+Top products by profit
 
 Category performance
 
 📈 Key Insights
-
-Sales show an upward trend over time
 
 A small number of products generate most of the revenue
 
